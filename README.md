@@ -34,5 +34,5 @@ Além disso, o aplicativo segue regras de negócio, passíveis de serem modifica
 * Os produtos de cor azul ou vermelha são exibidos com um desconto de 20%;
 * Os produtos de cor amarela são exibidos com um desconto de 10%;
 * Os produtos de cor vermelha, quando apresentam valores maior que R$ 50,00, são exibidos com desconto de 5%.
-* Uma vez escolhida a cor, nao é possível trocá-la por outra. 
+* Uma vez escolhida a cor, nao é possível modificá-la.
 * A exibição da tabela contém os números no formato da moeda nacional. 
