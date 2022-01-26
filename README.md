@@ -6,8 +6,6 @@ CREATE TABLE Produtos (
     nome varchar (256) not null,
     cor varchar (256)
 );
-
-
 ```
 
 ```
