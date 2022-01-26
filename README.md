@@ -1,4 +1,4 @@
-#### SQLs responsáveis por criar as tabelas do banco:
+#### Comandos SQL responsáveis por criar as tabelas do banco:
 
 ```
 CREATE TABLE Produtos (  
