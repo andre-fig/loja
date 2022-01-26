@@ -74,16 +74,17 @@ padding-bottom: 5px;
   }
 
   #botaoApagar{
-  background-color: rgb(218, 113, 113);}
+    background-color: rgb(218, 113, 113);}
 
-  #incluir{
+  #incluir, #atualizar{
     background-color: rgb(118, 160, 118);}
   
-    #botaoBuscar{
+#botaoBuscar{
         background-color: rgb(187, 187, 233);
     }
 
-    #editar{
-        background-color: rgb(231, 231, 131);
-        color: white;
+#editar{
+      background-color: rgb(231, 231, 131);
+     color: white;
     }
+
