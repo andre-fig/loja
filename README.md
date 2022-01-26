@@ -17,7 +17,7 @@ CREATE TABLE Preço (
 
 ## O que é?
 
-Trata-se de uma pequena aplicação CRUD (Create, Read, Update, Delete).
+Trata-se de uma aplicação CRUD (Create, Read, Update, Delete).
 
 ## Quais são as funcionalidades? 
 
