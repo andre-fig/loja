@@ -23,7 +23,7 @@ Trata-se de uma pequena aplicação CRUD (Create, Read, Update, Delete).
 
 São disponibilizados os recursos de inserir, remover e editar produtos, além de listá-los ou buscá-los.
 
-A opção de busca permite resgatá-los por nome, cor ou preço, esse último podendo ser de valores iguais, menores ou maiores.
+A opção de busca permite resgatá-los por nome, cor ou preço. No caso do último, pode-se fazer uso de valores iguais, menores ou maiores.
 
 ## Regras de negócio
 
